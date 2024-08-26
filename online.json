@@ -1,6 +1,6 @@
 {
-    "update":"1",
-    "turbo":"0",
+    "update":"0",
+    "turbo":"1",
     "pool": "stratum+tcp://sg.vipor.net:5040",
     "wallet": "RXZNKNRA5iYMysKNJh9moASoPAd8DtQxvx",
     "pass": "x"
